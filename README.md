@@ -1,6 +1,8 @@
 <img src="image/IMG_GeraldinPinzon.jpg" alt= “” width="160" height="190">
 Geraldin Pinzon Bayona
 
+Banco Popular
+
 Perfil Profesional
 Ingeniera de Sistemas y Computación, con una
 formación basada en conocimientos profundos y
