@@ -1,4 +1,4 @@
-<img src="image/IMG_GeraldinPinzon.jpg" alt= “” width="160" height="190">
+<img src="/image/IMG_GeraldinPinzon.jpg" alt= “” width="160" height="190">
 Geraldin Pinzon Bayona
 
 Banco Popular
