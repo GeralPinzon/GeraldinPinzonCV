@@ -37,3 +37,66 @@ Brindar soluciones a situaciones que se han catalogado como problemas, gestionan
 ***Tareas realizadas:*** Soporte, documentación y desarrollo de servicios de autogestión para condominios utilizando el CRM y ERP Dolibarr. Creación de módulos, menús, graficas, y mejoramiento de FrontEnd en Dolibarr utilizando PHP, HTML5, CSS, JavaScript, y bases de datos SQL.
 Creación de sitios web en WordPress, manejo de plugins, temas, y optimización de sitios web basados en WordPress.
 Consultas en LQL para obtención de información en Nagios, creación de interfaz para la autenticación de clientes en Nagios utilizando PHP, HTML5, CSS, JavaScript y manejo de bases de datos SQL. Manejo de sistema operativo CentOS.
+
+------
+
+
+## Cursos adicionales
+
+- Diplomado en Diseño de Software
+
+  Universidad Católica de Colombia, 2021.
+
+- Complementaria virtual en english dot works 1
+
+  SENA, 2020
+
+- Complementaria virtual en english dot works 2
+
+  SENA, 2020
+
+- Curso de Flutter
+
+  Platzi, octubre 2020
+
+- Curso de Introducción a SEO: Posicionamiento en Buscadores
+  
+  Platzi, octubre 2020
+
+- Creación y Optimización de Sitios Web con WordPress
+  
+  Platzi, octubre 2020
+
+- Curso de Introducción al Marketing Digital
+  
+  Platzi, octubre 2020
+
+- Curso Básico de JavaScript
+
+  Platzi, septiembre 2020
+
+- Desarrollo de aplicaciones en Java
+  
+  Universidad Católica de Colombia, 2019
+
+- Lenguaje C/C++ Básico
+  
+  Universidad Católica de Colombia, 2017
+
+------
+
+
+
+
+|    Actividades adicionales                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Participación en el programa de Excelencia Estudiantil de la Universidad Católica de Colombia - Monitora de Ecuaciones diferenciales  <br/>2021|
+| Semillero MAILAB Universidad Católica de Colombia – Proyecto de Traductor de Lenguaje de Señas Colombiano                                      |
+
+
+
+
+
+
+
+
