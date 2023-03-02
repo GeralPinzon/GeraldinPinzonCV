@@ -3,7 +3,7 @@ Geraldin Pinzon Bayona
 
 Banco Popular
 
-Perfil Profesional
+Perfil Profesional |
 Ingeniera de Sistemas y Computación, con una
 formación basada en conocimientos profundos y
 claros, principios éticos y grandes capacidades
